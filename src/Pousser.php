@@ -10,7 +10,7 @@ class Pousser
   /**
    * @var string Version
    */
-  public static $VERSION = '0.2';
+  public static $VERSION = '0.3';
 
   private $log;
   /**
